@@ -1,6 +1,7 @@
 #Addon: JSON statistics
 #Version: 0.0.1
-#Description: Create a JSON file containing statistics about your collections.
+#Description: Autogenerate a JSON file in your home directory containing statistics about your collections. The file is anki.json.
+
 
 from os.path import expanduser
 import json
