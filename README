@@ -1,4 +1,4 @@
 Addon: JSON statistics
-#Version: 0.0.1
+#Version: 0.0.2
 #Description: Autogenerate a JSON file in your home directory containing statistics about your collections. The file is anki.json.
 
